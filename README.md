@@ -49,8 +49,8 @@
 ---
 
 ### 📱 Devices  
-![Ryzen 5 5600G](https://img.shields.io/badge/Ryzen%205%20A1-ED9121?style=flat-square&logo=ryzen&logoColor=ffffff)  
-![Realme](https://img.shields.io/badge/Realme%205-ED9121?style=flat-square&logo=realme&logoColor=ffffff)  
+![Ryzen 5 5600G](https://img.shields.io/badge/Ryzen_5_5600G-ED9121?style=flat-square&logo=pc&logoColor=ffffff)  
+![Realme](https://img.shields.io/badge/Realme-ED9121?style=flat-square&logo=realme&logoColor=ffffff)  
 
 ---
 
