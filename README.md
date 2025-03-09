@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=2500&pause=1500&color=FF3183&center=true&vCenter=true&multiline=true&width=435&height=135&lines=Hello+%F0%9F%91%8B;Nice+to+meet+u;Im+Dena+Kamal+%F0%9F%A4%9D; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=2500&pause=1500&color=FF3183&center=true&vCenter=true&multiline=true&width=435&height=135&lines=Hello+%F0%9F%91%8B;Nice+to+meet+u;Im+Dena+Kamal+%F0%9F%A4%9D; />
   </a>
 </div>
 
@@ -42,15 +42,15 @@
 
 ### 💻 Environment  
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-87CF3E?style=flat-square&logo=Linux&logoColor=ffffff)  
-![Debian](https://img.shields.io/badge/Debian-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)  
-![Mikrotik](https://img.shields.io/badge/Mikrotik-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-87CF3E?style=flat-square&logo=Kali&logoColor=ffffff)  
+![Debian](https://img.shields.io/badge/Debian-ED9121?style=flat-square&logo=Debian&logoColor=ffffff)  
+![Mikrotik](https://img.shields.io/badge/Mikrotik-ED9121?style=flat-square&logo=Mikrotik&logoColor=ffffff)  
 
 ---
 
 ### 📱 Devices  
-![Ryzen 5 5600G](https://img.shields.io/badge/Ryzen%205%20A1-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)  
-![Realme](https://img.shields.io/badge/Realme%205-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)  
+![Ryzen 5 5600G](https://img.shields.io/badge/Ryzen%205%20A1-ED9121?style=flat-square&logo=ryzen&logoColor=ffffff)  
+![Realme](https://img.shields.io/badge/Realme%205-ED9121?style=flat-square&logo=realme&logoColor=ffffff)  
 
 ---
 
