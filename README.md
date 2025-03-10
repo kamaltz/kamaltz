@@ -41,10 +41,9 @@
 ---
 
 ### 💻 Environment  
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=windows&logoColor=ffffff)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-87CF3E?style=flat-square&logo=Kali&logoColor=ffffff)  
-![Debian](https://img.shields.io/badge/Debian-ED9121?style=flat-square&logo=Debian&logoColor=ffffff)  
-![Mikrotik](https://img.shields.io/badge/Mikrotik-ED9121?style=flat-square&logo=Mikrotik&logoColor=ffffff)  
+![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=windows&logoColor=ffffff)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-87CF3E?style=flat-square&logo=kali&logoColor=darkblue)  
+![Debian](https://img.shields.io/badge/Debian-ED9121?style=flat-square&logo=Debian&logoColor=magenta)  
 
 ---
 
