@@ -35,7 +35,7 @@
 
 #### 🌐 Web, Frameworks & Apps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c++,linux,figma,photoshop,vscode" alt="Web Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,cpp,linux,figma,photoshop,vscode" alt="Web Tools" />
 </div>
 
 ---
