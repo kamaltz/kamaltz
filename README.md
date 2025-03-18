@@ -13,7 +13,7 @@
 
 ### 🌍 About Me
 - 🇮🇩 From Indonesia  
-- 🌟 **Freelancer & Web Designer** 
+- 🌟 **Freelancer** 
 - 🤖 IT Analyst
 - 🌐 Part-time Web Designer
 
