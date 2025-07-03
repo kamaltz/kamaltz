@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats  
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kamaltz&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=kamaltz&theme=radical" />
   </a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kamaltz&show_icons=true&theme=radical" alt="GitHub Stats" />
