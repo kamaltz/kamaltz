@@ -14,17 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kamaltz&theme=radical" />
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaltz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaltz&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ### 🚀 Tech Stack  
 
@@ -35,18 +24,6 @@
 
 ---
 
-### 💻 Environment  
-![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=windows&logoColor=ffffff)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-87CF3E?style=flat-square&logo=kali&logoColor=darkblue)  
-![Debian](https://img.shields.io/badge/Debian-ED9121?style=flat-square&logo=Debian&logoColor=magenta)  
-
----
-
-### 📱 Devices  
-![Ryzen 5 5600G](https://img.shields.io/badge/Ryzen_5_5600G-ED9121?style=flat-square&logo=pc&logoColor=ffffff)  
-![Realme](https://img.shields.io/badge/Realme-ED9121?style=flat-square&logo=realme&logoColor=ffffff)  
-
----
 
 ### 🤝 Let's Connect  
 <div align="center">
