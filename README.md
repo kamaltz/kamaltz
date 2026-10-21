@@ -80,8 +80,7 @@ Have an idea, a project, or just want to say hello? Pick your favorite:
 <div align="center">
   <a href="mailto:camvr35@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kamal" /></a>
   <a href="https://t.me/kamaltz16"><img src="https://img.shields.io/badge/Telegram-Message%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Message Kamal on Telegram" /></a>
-  <a href="https://github.com/kamaltz"><img src="https://img.shields.io/badge/GitHub-Follow%20along-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Kamal on GitHub" /></a>
-</div>
+  </div>
 
 <br />
 
