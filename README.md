@@ -61,18 +61,6 @@ Hi, I'm Kamal — an IT Analyst and freelancer from Indonesia. I enjoy combining
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/kamaltz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaltz&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" width="96%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kamaltz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="96%" />
-  </a>
-</div>
-
 ## 🤝 Let's Connect
 
 Have an idea, a project, or just want to say hello? Pick your favorite:
