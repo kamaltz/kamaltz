@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=210&section=header&text=KAMAL&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20%7C%20Freelancer%20%7C%20Web%20Designer&descAlignY=60&descSize=18" alt="Dena Kamal — IT Analyst, Freelancer, Web Designer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=210&section=header&text=DENA&KAMAL&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20%7C%20Freelancer%20%7C%20Web%20Designer&descAlignY=60&descSize=18" alt="Dena Kamal — IT Analyst, Freelancer, Web Designer" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Turning+ideas+into+useful+digital+experiences;Analyze+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat;Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B" alt="Animated intro: analyze, design, build, repeat" />
